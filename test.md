@@ -21,3 +21,5 @@ This is a paragraph.
 This is a paragraph with a [link](https://example.com) {#link-id .link-class}.
 
 This is a paragraph with an ![image](https://example.com/image.png) {#image-id .image-class}.
+
+This is a paragraph with a linked image: [![test](https://example.com/image.png)](https://example.com/image.png)

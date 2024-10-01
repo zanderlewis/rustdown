@@ -7,7 +7,7 @@ fn main() -> io::Result<()> {
     // Define command-line arguments using clap
     let matches = App::new("rustdown")
         .version("0.0.1")
-        .author("Your Name <your.email@example.com>")
+        .author("Zander Lewis <zander@zanderlewis.dev>")
         .about("Converts Markdown to HTML")
         .arg(
             Arg::new("input")
